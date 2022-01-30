@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anuraj1110
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Java Basics
-- 📫 How to reach me https://www.linkedin.com/in/anuraj-kumar-bb620717a/
+- 📫 How to reach me <a href="https://www.linkedin.com/in/anuraj-kumar-bb620717a/">Linkedin</a>
 
 <!---
 Anuraj1110/Anuraj1110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
