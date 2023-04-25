@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuraj1110
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java Basics
+- 🌱 I’m currently learning C++ Basics
 - 📫 How to reach me <a href="https://www.linkedin.com/in/anuraj-kumar-bb620717a/" target="_blank">Linkedin</a>
 
 <!---
